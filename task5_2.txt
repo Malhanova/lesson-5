@@ -1,0 +1,4 @@
+Spring is green
+Summer is brigth
+Autumn is yellow
+Winter is white
